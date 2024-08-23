@@ -82,7 +82,7 @@ const Contact = () => {
                           required
                           onChange={(e) => setCountryCode(e.target.value)}
                         >
-                          <option value="+1">(United States)</option>
+                          {/* <option value="+1">(United States)</option> */}
                           <option value="+91">(India)</option>
                           <option value="44">(United Kingdom)</option>
                           <option value="61">(Australia)</option>
