@@ -78,7 +78,7 @@ const Contact = () => {
                         <select class="dropdown-year form-control" 
                           id="select-year" aria-required="true" aria-invalid="true" 
                           required name="sel_year" style={{ borderColor: "#CCCCCC", borderWidth: "1px", borderStyle: "solid" }}>
-                          <option value=""> Click here to select year</option>
+                          <option value=""> select year</option>
                           <option value="2001"> 2001 </option>
                           <option value="2002"> 2002 </option>
                           <option value="2003"> 2003 </option>
@@ -115,7 +115,7 @@ const Contact = () => {
                         <select class="dropdown-model form-control" 
                           id="select-model" aria-required="true" aria-invalid="true" 
                           required name="sel_model" style={{ borderColor: "#CCCCCC", borderWidth: "1px", borderStyle: "solid" }}>
-                          <option value=""> Model </option>
+                          <option value=""> select Model </option>
                           <option value="Audi"> Audi </option>
                           <option value="BMW"> BMW </option>
                           <option value="Hyundai"> Hyundai </option>
@@ -152,7 +152,7 @@ const Contact = () => {
                         <select class="dropdown-make form-control" 
                           id="select-make" aria-required="true" aria-invalid="true" 
                           required name="sel_make" style={{ borderColor: "#CCCCCC", borderWidth: "1px", borderStyle: "solid" }}>
-                          <option value=""> Make </option>
+                          <option value=""> select Make </option>
                           <option value="A3"> A3 </option>
                           <option value="Accent"> Accent </option>
                           <option value="320"> 320 </option>
@@ -190,7 +190,7 @@ const Contact = () => {
                         <select class="dropdown-part form-control" 
                           id="select-part" aria-required="true" aria-invalid="true" 
                           required name="sel_part" style={{ borderColor: "#CCCCCC", borderWidth: "1px", borderStyle: "solid" }}>
-                          <option value=""> Part </option>
+                          <option value=""> select Part </option>
                           <option value="2001"> Engine </option>
                           <option value="2002"> Airbag </option>
                           <option value="2003"> Turbo </option>
